@@ -1,0 +1,9 @@
+{
+  "name": "PWA Asset Manager",
+  "short_name": "Assets",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Offline asset management app",
+  "icons": []
+}

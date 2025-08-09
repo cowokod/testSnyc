@@ -1,0 +1,15 @@
+{
+  "name": "asset-worker",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^3.1.0"
+  },
+  "dependencies": {
+    "itty-router": "^3.1.2"
+  }
+}
